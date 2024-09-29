@@ -1,0 +1,14 @@
+{
+  "name": "x_scraper",
+  "version": "1.0.0",
+  "description": "Twitter scraper using Puppeteer for specific search query and date range",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^19.8.0"
+  }
+}
